@@ -32,4 +32,4 @@ if (require.main === module) {
     stdin: process.stdin,
     stdout: process.stdout,
   })
-}
+
